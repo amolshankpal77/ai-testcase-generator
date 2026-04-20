@@ -1,6 +1,6 @@
 # AI Test Case Generator
 
-An AI-powered tool that automatically generates structured software test cases from user requirements.
+An AI-powered tool that automatically generates structured software test cases from user requirements...
 
 This project helps QA engineers and developers quickly create meaningful test cases by simply providing a feature requirement in plain English.
 
